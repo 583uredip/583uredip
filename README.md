@@ -1,9 +1,7 @@
 
 ![🔭 I’m currently working on responsive website projects using HTML, CSS, and Tailwind CSS](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-![Animated Tagline](./assets/tagline.gif)
-# Hi there 👋, my name is Redip Biswas
-![Animated Tagline](./assets/tagline.gif)
 
+# Hi there 👋, my name is Redip Biswas
 #### 💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast
 
 
