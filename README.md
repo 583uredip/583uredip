@@ -2,8 +2,6 @@
 
 ### Hi there 👋, my name is Redip Biswas
 #### 💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast  
-![💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast  ](![Beginner Web Developer ](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg))
-
 🔭 I’m currently working on **responsive website projects** using HTML, CSS, and Tailwind CSS  
 - 🌱 I’m currently learning **JavaScript, Cybersecurity, and Databases (Oracle SQL, MySQL)**  
 - 👯 I want to collaborate on **frontend web development projects and open-source contributions**  
