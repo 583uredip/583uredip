@@ -3,7 +3,7 @@
 
 # Hi there 👋, my name is Redip Biswas
 
-![Uploading animated_text (1).gif…]()
+![My GIF](https://github.com/583uredip/YourRepoName/raw/main/animated_text.gif)
 
 
 
