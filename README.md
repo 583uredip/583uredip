@@ -3,13 +3,7 @@
 
 # Hi there 👋, my name is Redip Biswas
 
-![Image](https://github.com/user-attachments/assets/1efde469-f846-4205-ba68-1b8273bf762b)
-
-
-
-
-
-
+![Image](https://github.com/user-attachments/assets/f30efdce-8fde-493a-b423-62f6ffcc34b4)
 
 🔭 I’m currently working on **responsive website projects** using HTML, CSS, and Tailwind CSS  
 - 🌱 I’m currently learning **JavaScript, Cybersecurity, and Databases (Oracle SQL, MySQL)**  
