@@ -1,4 +1,6 @@
 ![Beginner Web Developer ](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<div style="background-color:#f0f0f0; padding:20px; border-radius:10px;">
+
 ### Hi there 👋, I'm Redip Biswas
 #### Beginner Web Developer 
 
