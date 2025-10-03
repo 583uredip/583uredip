@@ -1,4 +1,4 @@
-![💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast  ](![Beginner Web Developer ](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast  ([Beginner Web Developer ](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ### Hi there 👋, my name is Redip Biswas
 #### 💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast  
