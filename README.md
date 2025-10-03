@@ -2,8 +2,73 @@
 ![🔭 I’m currently working on responsive website projects using HTML, CSS, and Tailwind CSS](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 # Hi there 👋, my name is Redip Biswas
-#### 💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Bio Tagline</title>
+  <style>
+    /* Background & center */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f8fafc;
+    }
+
+    /* Tagline container */
+    .tagline {
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: #0f172a;
+      border-right: 2px solid #0f172a; /* Cursor */
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    /* Typing animation */
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+
+    @keyframes blink {
+      0%, 50%, 100% { border-color: #0f172a; }
+      25%, 75% { border-color: transparent; }
+    }
+
+    .typing {
+      width: 0;
+      animation: typing 4s steps(80, end) forwards, blink 1s step-end infinite;
+    }
+  </style>
+</head>
+<body>
+  <h4 class="tagline typing">💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast</h4>
+
+  <script>
+    // Optional: Add loop typing effect
+    const tagline = "💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast";
+    const el = document.querySelector('.tagline');
+    let index = 0;
+
+    function typeLoop() {
+      el.textContent = tagline.slice(0, index);
+      el.style.width = "auto";
+      index++;
+      if(index > tagline.length) index = 0;
+      setTimeout(typeLoop, 100); // adjust speed
+    }
+
+    typeLoop();
+  </script>
+</body>
+</html>
 
 
 🔭 I’m currently working on **responsive website projects** using HTML, CSS, and Tailwind CSS  
