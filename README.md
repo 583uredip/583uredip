@@ -3,7 +3,7 @@
 
 # Hi there 👋, my name is Redip Biswas
 
-#### 💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast
+![Uploading animated_text (1).gif…]()
 
 
 
