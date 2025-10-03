@@ -3,8 +3,7 @@
 
 # Hi there 👋, my name is Redip Biswas
 
-![Image](https://github.com/user-attachments/assets/f30efdce-8fde-493a-b423-62f6ffcc34b4)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=2F58F7&width=435&lines=+%F0%9F%92%BB+Beginner+Web+Developer+;%F0%9F%9A%80+Learning+%26+Building;%F0%9F%94%90+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 🔭 I’m currently working on **responsive website projects** using HTML, CSS, and Tailwind CSS  
 - 🌱 I’m currently learning **JavaScript, Cybersecurity, and Databases (Oracle SQL, MySQL)**  
 - 👯 I want to collaborate on **frontend web development projects and open-source contributions**  
