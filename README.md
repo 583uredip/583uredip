@@ -1,7 +1,38 @@
 
 ![🔭 I’m currently working on responsive website projects using HTML, CSS, and Tailwind CSS](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 # Hi there 👋, my name is Redip Biswas
-#### 💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast  
+<!-- Save as animated-tagline.svg in your repo -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="Animated tagline">
+  <style>
+    .text { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; fill:#0f172a; font-weight:600; }
+  </style>
+
+  <!-- mask that sweeps left->right to reveal text -->
+  <defs>
+    <mask id="reveal">
+      <!-- mask background (black hides, white shows) -->
+      <rect x="-1200" y="0" width="2400" height="120" fill="white"/>
+      <!-- animated white-to-black bar (black region will hide text) -->
+      <rect x="-1000" y="0" width="1000" height="120" fill="black">
+        <animate attributeName="x" from="-1000" to="1000" dur="3.5s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- background pill -->
+  <rect x="0" y="10" rx="12" ry="12" width="1000" height="100" fill="#f8fafc"/>
+
+  <!-- the text that will be revealed -->
+  <g mask="url(#reveal)">
+    <text class="text" x="30" y="55">💻 Beginner Web Developer  |  🚀 Learning & Building  |  🔐 Cybersecurity Enthusiast</text>
+  </g>
+
+  <!-- subtle moving dot to add life -->
+  <circle cx="30" cy="55" r="2.8" fill="#0ea5a4">
+    <animate attributeName="cx" values="30;980;30" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="r" values="2.8;5;2.8" dur="1.4s" repeatCount="indefinite" />
+  </circle>
+</svg>
 
 🔭 I’m currently working on **responsive website projects** using HTML, CSS, and Tailwind CSS  
 - 🌱 I’m currently learning **JavaScript, Cybersecurity, and Databases (Oracle SQL, MySQL)**  
