@@ -1,5 +1,5 @@
 
-(https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+(https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ### Hi there 👋, my name is Redip Biswas
 #### 💻 Beginner Web Developer | 🚀 Learning & Building | 🔐 Cybersecurity Enthusiast  
