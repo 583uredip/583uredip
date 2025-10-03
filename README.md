@@ -27,7 +27,6 @@ Skills: *Frontend:** HTML, CSS, Tailwind CSS   - **Learning:** JavaScript, Respo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=583uredip)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/583uredip)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=583uredip)  
 
