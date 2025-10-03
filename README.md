@@ -7,6 +7,11 @@
 
 
 
+
+
+
+
+
 🔭 I’m currently working on **responsive website projects** using HTML, CSS, and Tailwind CSS  
 - 🌱 I’m currently learning **JavaScript, Cybersecurity, and Databases (Oracle SQL, MySQL)**  
 - 👯 I want to collaborate on **frontend web development projects and open-source contributions**  
