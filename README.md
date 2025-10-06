@@ -35,5 +35,4 @@ Skills: *Frontend:** HTML, CSS, Tailwind CSS   - **Learning:** JavaScript, Respo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=583uredip)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=583uredip)  
 
