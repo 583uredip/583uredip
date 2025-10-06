@@ -17,7 +17,7 @@ Skills: *Frontend:** HTML, CSS, Tailwind CSS   - **Learning:** JavaScript, Respo
 - 👯 I’m looking to collaborate on **Frontend web development projects, open-source contributions, and beginner-friendly cybersecurity labs.**   
 - 🤔 I’m looking for help with Mastering **advanced JavaScript concepts**, hands-on cybersecurity practices, and improving my freelancing journey on Fiverr.   
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, Responsive Web Design, Cybersecurity basics, and Databases.**   
-- 📫 How to reach me: - ✉️ Email: redipbiswas8@gmail- 💼 LinkedIn:https://www.linkedin.com/in/redip-biswas-614601363/ 
+- 📫 How to reach me: - ✉️ Email: redipbiswas8@gmail.com 💼 LinkedIn:https://www.linkedin.com/in/redip-biswas-614601363/ 
 - 😄 Pronouns: He/Him   
 - ⚡ Fun fact: I enjoy debugging code for hours, and I also love watching movies and reading romantic stories when I’m not coding.   
 
