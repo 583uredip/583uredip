@@ -1,5 +1,5 @@
 
-![🔭 I’m currently working on responsive website projects using HTML, CSS, and Tailwind CSS](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![🔭 I’m currently working on responsive website projects using HTML, CSS, and Tailwind CSS]<img width="1671" height="941" alt="ChatGPT Image May 3, 2026, 05_45_35 PM" src="https://github.com/user-attachments/assets/697d1c59-83ac-46b2-a989-d8c3c435777e" />
 
 # Hi there 👋, my name is Redip Biswas
 
