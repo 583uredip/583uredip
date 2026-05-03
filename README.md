@@ -5,21 +5,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=27&pause=1000&color=2F58F7&width=435&lines=+%F0%9F%92%BB+Beginner+Web+Developer+;%F0%9F%9A%80+Learning+%26+Building;%F0%9F%94%90+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 # About Me
-🔭 I’m currently working on **responsive website projects** using HTML, CSS, and Tailwind CSS  
-- 🌱 I’m currently learning **JavaScript, Cybersecurity, and Databases (Oracle SQL, MySQL)**  
-- 👯 I want to collaborate on **frontend web development projects and open-source contributions**  
-- 🤔 I’m looking for help with **advanced JavaScript concepts and cybersecurity hands-on practice**  
+💻 Cyber Security Analyst | Learning Web Development & Web Security
 
-Skills: *Frontend:** HTML, CSS, Tailwind CSS   - **Learning:** JavaScript, Responsive Design   - **Other Interests:** Cybersecurity, Databases, Ethical Hacking  
+🔭 Building responsive websites using HTML, CSS, Tailwind
+🌱 Learning JavaScript, Ethical Hacking, Oracle SQL & MySQL
+👯 Open to frontend projects, cybersecurity labs & open-source collaboration
+🤔 Exploring advanced JavaScript & hands-on cybersecurity
 
-- 🔭 I’m currently working on Building responsive websites using **HTML, CSS, and Tailwind CSS**, and improving my frontend development skills.   
-- 🌱 I’m currently learning **JavaScript, Cybersecurity (Ethical Hacking, Web Security), and Databases (Oracle SQL, MySQL).**   
-- 👯 I’m looking to collaborate on **Frontend web development projects, open-source contributions, and beginner-friendly cybersecurity labs.**   
-- 🤔 I’m looking for help with Mastering **advanced JavaScript concepts**, hands-on cybersecurity practices, and improving my freelancing journey on Fiverr.   
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, Responsive Web Design, Cybersecurity basics, and Databases.**   
-- 📫 How to reach me: - ✉️ Email: redipbiswas8@gmail.com 💼 LinkedIn:https://www.linkedin.com/in/redip-biswas-614601363/ 
-- 😄 Pronouns: He/Him   
-- ⚡ Fun fact: I enjoy debugging code for hours, and I also love watching movies and reading romantic stories when I’m not coding.   
+🛠 Skills: HTML, CSS, Tailwind CSS
+📚 Interests: Cybersecurity, Databases, Ethical Hacking
+
+📫 Email: redipbiswas8@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/redip-biswas-614601363/
+
+⚡ Love debugging & watching movies 🎬
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/583uredip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/redip-biswas-614601363//)  
