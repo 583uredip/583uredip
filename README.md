@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Redip Biswas</h1>
-<h3 align="center">
-🐛 Aspiring Bug Hunter | 💻 C# Developer | 🎓 CSE Student at AIUB
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Redip+Biswas;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Bug+Hunter+%F0%9F%90%9B;C%23+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90" alt="Typing SVG"/>
+</h1>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RedipBiswas&label=Profile%20Views&color=0e75b6&style=flat" alt="RedipBiswas"/>
+  <img src="https://komarev.com/ghpvc/?username=583uredip&label=Profile%20Views&color=0e75b6&style=flat" alt="583uredip"/>
+  <img src="https://img.shields.io/github/followers/583uredip?label=Followers&style=social" alt="followers"/>
 </p>
 
 ---
 
 # 🛡️ About Me
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 ```bash
 ┌──(redip㉿kali)-[~/cybersecurity]
@@ -22,7 +23,7 @@
 > 🔐 Passionate about Cyber Security & Ethical Hacking
 > 🎓 CSE Student at AIUB
 > 🐛 Aspiring Bug Hunter & Penetration Tester
-> 💻 C# Developer | Python Learner
+> 💻 C# Developer | Web Developer
 
 ┌──(redip㉿kali)-[~/cybersecurity]
 └─$ cat goals.txt
@@ -34,6 +35,7 @@
 └─$ cat skills.txt
 > 🌱 Learning: Python, Networking, Web Security
 > 💡 Interests: Bug Bounty, Vuln Research, Malware Analysis
+> 🌐 Web: HTML, CSS, JavaScript
 > ⚡ Fun Fact: I find joy in breaking things to fix them!
 
 ┌──(redip㉿kali)-[~/cybersecurity]
@@ -53,6 +55,15 @@
 </a>
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" />
 </a>
 <a href="https://www.linux.org/">
 <img src="https://skillicons.dev/icons?i=linux" />
@@ -77,9 +88,9 @@
 
 <p align="center">
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=RedipBiswas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=583uredip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedipBiswas&layout=compact&langs_count=8&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=583uredip&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -87,7 +98,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedipBiswas&
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RedipBiswas&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=583uredip&theme=tokyonight"/>
 </p>
 
 ---
@@ -95,7 +106,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedipBiswas&
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RedipBiswas&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=583uredip&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -103,7 +114,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedipBiswas&
 # 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/RedipBiswas">
+<a href="https://github.com/583uredip">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
