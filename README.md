@@ -10,12 +10,38 @@
 
 # 🛡️ About Me
 
-- 🔐 Passionate about Cyber Security, Ethical Hacking and Digital Forensics
-- 🎓 Computer Science & Engineering Student at AIUB
-- 🌱 Currently learning **Python, Networking, Web Security and Penetration Testing**
-- 💻 Interested in **Bug Bounty Hunting, Vulnerability Research, Malware Analysis and C# Development**
-- 🎯 Goal: Become a Cyber Security Specialist and contribute to Cyber Crime Investigation
-- ⚡ Fun Fact: I enjoy discovering security vulnerabilities and learning how to defend against them.
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+
+```bash
+┌──(redip㉿kali)-[~/cybersecurity]
+└─$ whoami
+> Redip Biswas — Bug Hunter & CSE Student
+
+┌──(redip㉿kali)-[~/cybersecurity]
+└─$ cat about.txt
+> 🔐 Passionate about Cyber Security & Ethical Hacking
+> 🎓 CSE Student at AIUB
+> 🐛 Aspiring Bug Hunter & Penetration Tester
+> 💻 C# Developer | Python Learner
+
+┌──(redip㉿kali)-[~/cybersecurity]
+└─$ cat goals.txt
+> 🎯 Become a Cyber Security Specialist
+> 🔍 Contribute to Cyber Crime Investigation
+> 🏆 Hunt bugs on HackerOne & Bugcrowd
+
+┌──(redip㉿kali)-[~/cybersecurity]
+└─$ cat skills.txt
+> 🌱 Learning: Python, Networking, Web Security
+> 💡 Interests: Bug Bounty, Vuln Research, Malware Analysis
+> ⚡ Fun Fact: I find joy in breaking things to fix them!
+
+┌──(redip㉿kali)-[~/cybersecurity]
+└─$ status
+> [+] Systems secured ✅
+> [+] Bugs hunted ✅
+> [+] Always learning... 🚀
+```
 
 ---
 
