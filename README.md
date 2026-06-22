@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=583uredip&label=🔥+Profile+Views&color=FF6B6B&style=for-the-badge" alt="views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/583uredip?label=👥+Followers&style=for-the-badge&color=A855F7" alt="followers"/>
+  <img src="https://img.shields.io/badge/👥+Followers-Check+GitHub-A855F7?style=for-the-badge" alt="followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/🐛+Bug_Hunter-Active-00C896?style=for-the-badge" alt="bug hunter"/>
   &nbsp;
@@ -26,7 +26,9 @@
 
 # 🛡️ About Me
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="270"/>
+<p align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+</p>
 
 ```bash
 ┌──(redip㉿kali)-[~/cybersecurity]
