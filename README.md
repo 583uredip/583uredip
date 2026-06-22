@@ -11,7 +11,7 @@
 
 # 🛡️ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
 
 ```bash
 ┌──(redip㉿kali)-[~/cybersecurity]
@@ -106,7 +106,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=583uredip&la
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=583uredip&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=583uredip&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -114,8 +114,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=583uredip&la
 # 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/583uredip">
+<a href="https://github.com/583uredip" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/redip-biswas-614601363/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:redipbiswas8@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
