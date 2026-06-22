@@ -103,10 +103,18 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=583uredip&la
 
 ---
 
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=583uredip&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=583uredip&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=583uredip&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
