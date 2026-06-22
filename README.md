@@ -1,10 +1,23 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Redip%20Biswas&fontSize=50&fontColor=fff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Redip+Biswas;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Bug+Hunter+%F0%9F%90%9B;C%23+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=583uredip&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="583uredip"/>
-  <img src="https://img.shields.io/github/followers/583uredip?label=Followers&style=for-the-badge&color=00F7FF" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=583uredip&label=🔥+Profile+Views&color=FF6B6B&style=for-the-badge" alt="views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/583uredip?label=👥+Followers&style=for-the-badge&color=A855F7" alt="followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🐛+Bug_Hunter-Active-00C896?style=for-the-badge" alt="bug hunter"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🛡️+Cyber_Security-Enthusiast-FF6B35?style=for-the-badge" alt="cyber"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💻+C%23-Developer-0EA5E9?style=for-the-badge" alt="csharp"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🌐+Web-Developer-F59E0B?style=for-the-badge" alt="web"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -168,5 +181,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=583uredip&la
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 </p>
